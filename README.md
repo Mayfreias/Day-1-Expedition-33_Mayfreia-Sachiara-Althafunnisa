@@ -4,11 +4,10 @@
 Mayfreia Sachiara Althafunnisa
 
 ## Deskripsi singkat
-Aplikasi web untuk membantu mahasiswa merencanakan dan melacak tugas kuliah,
-lengkap dengan deadline dan prioritas.
+Penyimpanan digital berbasis cloud yang digunakan untuk menyimpan berkas proyek, source code, dan seluruh riwayat perubahannya.
 
 ## Tujuan
-Membantu mahasiswa tetap terorganisir dan menyelesaikan tugas tepat waktu.
+Mengamankan data, mencatat riwayat perubahan, memfasilitasi kolaborasi tim, mengelola tugas proyek, dan menjadi portofolio digital.
 
 ---
 
